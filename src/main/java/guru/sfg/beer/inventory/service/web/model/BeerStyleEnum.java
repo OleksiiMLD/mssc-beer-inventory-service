@@ -1,4 +1,4 @@
-package guru.sfg.beer.common.web.model;
+package guru.sfg.beer.inventory.service.web.model;
 
 /**
  * Created by okostetskyi on 19.07.2022

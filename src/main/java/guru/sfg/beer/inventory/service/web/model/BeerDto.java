@@ -1,4 +1,4 @@
-package guru.sfg.beer.common.web.model;
+package guru.sfg.beer.inventory.service.web.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

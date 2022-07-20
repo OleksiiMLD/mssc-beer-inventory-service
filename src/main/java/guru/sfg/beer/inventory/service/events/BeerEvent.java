@@ -1,6 +1,6 @@
-package guru.sfg.beer.common.events;
+package guru.sfg.beer.inventory.service.events;
 
-import guru.sfg.beer.common.web.model.BeerDto;
+import guru.sfg.beer.inventory.service.web.model.BeerDto;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
